@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>34018b4e-1503-4b97-a56d-5ed74252a854</ProjectGuid>
+    <ProjectGuid>{569B8ABD-4D6A-49A1-84EC-1B765342E214}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Easy.SetIntersection</RootNamespace>
